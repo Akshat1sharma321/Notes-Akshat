@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import AddNote from "./components/Addnote";
-import NotesList from "./components/Noteslist";
+import AddNote from "./components/AddNote";
+import NotesList from "./components/NotesList";
 import Header from "./components/Header";
 
 // Why this nav approach for simplicity: Buttons toggle views, making it simple for users.
